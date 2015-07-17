@@ -13,7 +13,7 @@ build/
 *.perspectivev3
  
 #!xcuserdata/
-#*.xcuserstate
+*.xcuserstate
 UserInterfaceState.xcuserstate
  
 # Windows image thumbnail file
